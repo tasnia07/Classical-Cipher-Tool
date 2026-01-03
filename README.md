@@ -50,7 +50,7 @@ A comprehensive encryption/decryption tool implementing four classical cryptogra
 ### Step 1: Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/cipher.git
+git clone https://github.com/tasnia07/Classical-Cipher-Tool.git
 cd cipher
 ```
 
