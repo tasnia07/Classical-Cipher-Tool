@@ -33,10 +33,8 @@ A comprehensive encryption/decryption tool implementing four classical cryptogra
 - **Modern Dark Theme** - Easy on the eyes, professional appearance
 - **Dual Interface** - GUI for ease of use, CLI for scripting
 - **Real-time Validation** - Instant feedback on key validity
-- **History Tracking** - Review past operations
-- **Import/Export** - Load text from files, save results
 - **Hill Cipher Cracker** - Recover keys using known plaintext attack
-- **Keyboard Shortcuts** - Fast operation for power users
+
 
 ---
 
